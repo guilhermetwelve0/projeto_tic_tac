@@ -1,8 +1,8 @@
 # Tic Tac Toe
 
-An implementation of the tic tac toe game using Socket.IO. 
+Uma implementação do jogo Tic Tac Toe usando node e socket.io
 
-To run this game: 
+Para rodar o jogo: 
 
 1. Clone this repository
 
@@ -10,6 +10,5 @@ To run this game:
 
 3. Run `npm start`
 
-4. Go to http://localhost:5000/
+4. Va para http://localhost:5000/
 
-## Screenshots
